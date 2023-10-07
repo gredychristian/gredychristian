@@ -1,7 +1,5 @@
 <h2 align="left">Zdravstvuy, I'm Gredy Christian Hendrawan Putra🙋🏽‍♂️</h2>
-
 ###
-
 <p align="left">Glad to see you!</p>
 
 ###
