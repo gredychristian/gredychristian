@@ -38,7 +38,7 @@
 
 <h3 align="left" style="margin: 0; padding: 0;">Get in Touch</h3>
 <div align="left" style="margin: 0; padding: 0;">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a href="https://discord.com/users/Alviriza#5447" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo"  />
   <img width="10" />
   <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="25" alt="instagram logo"  />
 </div>
