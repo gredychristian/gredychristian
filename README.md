@@ -1,5 +1,5 @@
 <h2 align="left" style="margin: 0; padding: 0;">Zdravstvuy, I'm Gredy Christian Hendrawan Putra🙋🏽‍♂️</h2>
-<p align="left">Glad to see you!</p>
+<p align="left" style="margin: 0; padding: 0;">Glad to see you!</p>
 
 ###
 
@@ -22,7 +22,7 @@
 ###
 
 <h3 align="left" style="margin: 0; padding: 0;">Design Tools</h3>
-<div align="left">
+<div align="left" style="margin: 0; padding: 0;">
   <img src="https://skillicons.dev/icons?i=ps" height="25" alt="adobephotoshop logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=ai" height="25" alt="adobeillustrator logo"  />
@@ -37,7 +37,7 @@
 ###
 
 <h3 align="left" style="margin: 0; padding: 0;">Get in Touch</h3>
-<div align="left">
+<div align="left" style="margin: 0; padding: 0;">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="25" alt="linkedin logo"  />
   <img width="10" />
   <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" height="25" alt="instagram logo"  />
