@@ -8,9 +8,6 @@
 ###
 
 <h3 align="left">About Me</h3>
-
-###
-
 <p align="left">📑 An Undergraduate Informatics Student at UPN "Veteran" East Java since 2022.<br>💡 Interested in database management, programming, and multimedia.<br>🍃 Supporting public transportation and green city for a sustainable development.</p>
 
 ###
