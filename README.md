@@ -11,11 +11,11 @@
 <h3 align="left" style="margin: 0; padding: 0;">Preferred Languages</h3>
 <div align="left" style="margin: 0; padding: 0;">
   <img src="https://skillicons.dev/icons?i=c" height="25" alt="c logo"  />
-  <img width="10" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=cpp" height="25" alt="cplusplus logo"  />
-  <img width="10" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=py" height="25" alt="python logo"  />
-  <img width="10" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=mysql" height="25" alt="mysql logo"  />
 </div>
 
@@ -24,13 +24,13 @@
 <h3 align="left" style="margin: 0; padding: 0;">Design Tools</h3>
 <div align="left" style="margin: 0; padding: 0;">
   <img src="https://skillicons.dev/icons?i=ps" height="25" alt="adobephotoshop logo"  />
-  <img width="10" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=ai" height="25" alt="adobeillustrator logo"  />
-  <img width="10" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=pr" height="25" alt="premiere pro logo"  />
-  <img width="10" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=figma" height="25" alt="figma logo"  />
-  <img width="10" />
+  <img width="20" />
   <img src="https://skillicons.dev/icons?i=sketchup" height="25" alt="sketch logo"  />
 </div>
 
