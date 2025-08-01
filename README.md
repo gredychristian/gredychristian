@@ -27,7 +27,7 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=ai" height="25" alt="adobeillustrator logo"  />
   <img width="10" />
-  <img src="https://cdn.simpleicons.org/adobepremierepro/9999FF" height="25" alt="adobepremierepro logo"  />
+  <img src="https://skillicons.dev/icons?i=pr" height="25" alt="premiere pro logo"  />
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=figma" height="25" alt="figma logo"  />
   <img width="10" />
